@@ -1,21 +1,71 @@
+# 🚀 Hi there, I'm Sanjay! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndm80Z3J6amZ4bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/dw60YIVoqH7AL86H87/giphy.gif" width="35">
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/vd53vtqb) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanjayr.20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay-r-2b3840328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/LesserLiving) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjayr20606@gmail.com) 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sanjay%20R&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sanjayR-20&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sanjayR-20&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayR-20&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sanjayR-20&limit=5&theme=blueberry&combine_all_yearly_contributions=true)
+### 👨‍💻 About Me
+- 🔭 I’m currently working on **Full Stack Web Development**
+- ⚡ High-interest in **Algorithms, Data Structures, and Software Architecture**
+- 🎨 Passionate about creating **cinematic and minimal UI/UX**
+- 🏆 Actively participating in **Hackathons & Coding Contests**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sanjayR-20&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🌐 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/sanjay-r-2b3840328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjay-r" height="30" width="40" /></a>
+<a href="https://instagram.com/sanjayr.20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanjayr.20" height="30" width="40" /></a>
+<a href="https://discord.gg/vd53vtqb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sanjay-r" height="30" width="40" /></a>
+<a href="mailto:sanjayr20606@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="sanjay-r" height="30" width="35" /></a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,js,html,css,bootstrap,nodejs,express,mongodb,jquery,git,github,vscode" />
+</p>
+
+**Core Competencies:**
+- **Languages:** C, JavaScript (ES6+), HTML5
+- **Frontend:** Bootstrap, jQuery, EJS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB (Learning MERN)
+
+---
+
+### 📊 Performance Metrics
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sanjayR-20&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" alt="Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayR-20&theme=midnight-purple&hide_border=false&layout=compact" alt="Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=sanjayR-20&theme=midnight-purple&hide_border=false" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🐍 Contribution Activity
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sanjayR-20/sanjayR-20/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+### ✍️ Think Like a Dev
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=sanjayR-20&icon=0&color=12" alt="Visitors" />
+</p>
