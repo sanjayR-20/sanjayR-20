@@ -1,71 +1,60 @@
-# 🚀 Hi there, I'm Sanjay! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndm80Z3J6amZ4bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/dw60YIVoqH7AL86H87/giphy.gif" width="35">
+# 🚀 Hi there, I am Sanjay R <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndm80Z3J6amZ4bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/dw60YIVoqH7AL86H87/giphy.gif" width="35">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sanjay%20R&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=SANJAY%20R&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
 </p>
 
-### 👨‍💻 About Me
-- 🔭 I’m currently working on **Full Stack Web Development**
-- ⚡ High-interest in **Algorithms, Data Structures, and Software Architecture**
-- 🎨 Passionate about creating **cinematic and minimal UI/UX**
-- 🏆 Actively participating in **Hackathons & Coding Contests**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanjayR-20&label=PROFILE%20VIEWS&color=blueviolet&style=flat" alt="Views" />
+</p>
 
 ---
 
-### 🌐 Connect with Me
+### ⚡ System Profile
+- 🔭 **Current Focus:** Crafting full-stack solutions with the MERN stack.
+- 🧠 **Learning:** Advanced Data Structures & Cloud Architecture.
+- 🎨 **Interests:** Minimalist UI/UX and High-Tech Aesthetics.
+- 🏆 **Goals:** Cracking TCS CodeVita and contributing to Open Source.
+
+---
+
+### 🌐 Digital Matrix (Socials)
 <p align="left">
-<a href="https://www.linkedin.com/in/sanjay-r-2b3840328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjay-r" height="30" width="40" /></a>
-<a href="https://instagram.com/sanjayr.20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanjayr.20" height="30" width="40" /></a>
-<a href="https://discord.gg/vd53vtqb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sanjay-r" height="30" width="40" /></a>
-<a href="mailto:sanjayr20606@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="sanjay-r" height="30" width="35" /></a>
+<a href="https://www.linkedin.com/in/sanjay-r-2b3840328" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/sanjayr.20" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+<a href="https://discord.gg/vd53vtqb" target="blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="mailto:sanjayr20606@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Arsenal
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,js,html,css,bootstrap,nodejs,express,mongodb,jquery,git,github,vscode" />
-</p>
-
-**Core Competencies:**
-- **Languages:** C, JavaScript (ES6+), HTML5
-- **Frontend:** Bootstrap, jQuery, EJS
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB (Learning MERN)
-
----
-
-### 📊 Performance Metrics
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=sanjayR-20&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" alt="Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayR-20&theme=midnight-purple&hide_border=false&layout=compact" alt="Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=sanjayR-20&theme=midnight-purple&hide_border=false" width="100%" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 🐍 Contribution Activity
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sanjayR-20/sanjayR-20/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://skillicons.dev/icons?i=c,js,html,css,bootstrap,nodejs,express,mongodb,jquery,git,github,vscode,postman,react" />
 </p>
 
 ---
 
-### ✍️ Think Like a Dev
+### 📊 Tactical Metrics
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjayR-20&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" alt="Sanjay's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayR-20&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sanjayR-20&icon=0&color=12" alt="Visitors" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjayR-20&theme=dracula&border_radius=10" alt="GitHub Streak" width="100%" />
+</p>
+
+---
+
+### 🛠️ Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjayR-20&theme=dracula&area=true&hide_border=true" width="100%" />
+</p>
+
+---
+
+### ✍️ Dev Logic
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" width="80%" />
 </p>
